@@ -9,7 +9,6 @@ s.platform = :ios, '13.0'
 s.summary = 'BlueStack BidMachine mediation adapter'
 s.homepage = "https://developers.bluestack.app/"
 s.swift_version = '5'
-s.source_files = ["BlueStackBidMachineAdapter.xcframework/*/*/Headers/*.{h,m,swift}"]
 
 s.source = { :git => 'https://github.com/azerion/BlueStack-BidMachine-Adapter.git', :tag => "#{s.version}" }
 s.documentation_url = 'https://developers.bluestack.app/ios/mediation/primairy/supported-networks#bidmachine'
