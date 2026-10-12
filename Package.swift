@@ -14,7 +14,7 @@ let package = Package(
     ],
     dependencies: [
         .package(url: "https://github.com/azerion/BlueStackSDK.git", .upToNextMinor(from: "6.1.0")),
-        .package(url: "https://github.com/bidmachine/BidMachine-SPM.git", exact: "3.7.1")
+        .package(url: "https://github.com/bidmachine/BidMachine-SPM.git", exact: "3.8.2")
     ],
     targets: [
         .target(

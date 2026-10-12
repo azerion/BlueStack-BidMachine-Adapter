@@ -6,11 +6,11 @@
 	<dict>
 		<key>Info.plist</key>
 		<data>
-		MgFzKSlRhI2cyE2MF+l/3HZowRE=
+		tZ3Btdd3otEcyfxVf9BIr5DAIeg=
 		</data>
 		<key>Modules/BlueStackBidMachineAdapter.swiftmodule/arm64-apple-ios-simulator.abi.json</key>
 		<data>
-		OioAa7EsunWf+/HvBa0vimgAX60=
+		T4XMtgi/Iw3qSdzrZQ5xUiK8XrY=
 		</data>
 		<key>Modules/BlueStackBidMachineAdapter.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
 		<data>
@@ -26,11 +26,11 @@
 		</data>
 		<key>Modules/BlueStackBidMachineAdapter.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		0OaKH5MEE4THeJ+J0gFDS6WoKo4=
+		htxVNuEcH+ppSqXw9xeoN7fTUhc=
 		</data>
 		<key>Modules/BlueStackBidMachineAdapter.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<data>
-		OioAa7EsunWf+/HvBa0vimgAX60=
+		T4XMtgi/Iw3qSdzrZQ5xUiK8XrY=
 		</data>
 		<key>Modules/BlueStackBidMachineAdapter.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
 		<data>
@@ -46,7 +46,7 @@
 		</data>
 		<key>Modules/BlueStackBidMachineAdapter.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		Dztd5Kcba5DpwtUwU96Ecv4MesI=
+		vZIou1zRs2xjkXdWw2Fa1XweAbE=
 		</data>
 	</dict>
 	<key>files2</key>
@@ -55,11 +55,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			OioAa7EsunWf+/HvBa0vimgAX60=
+			T4XMtgi/Iw3qSdzrZQ5xUiK8XrY=
 			</data>
 			<key>hash2</key>
 			<data>
-			IzD56dXgy1eGjArvBrEuvxyDzfJvZvCVKrG1mORI6c8=
+			aifGBBUHBrLSMTxYzNej/dntlBaDPMnoOkc0ZFwxB6k=
 			</data>
 		</dict>
 		<key>Modules/BlueStackBidMachineAdapter.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
@@ -99,22 +99,22 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			0OaKH5MEE4THeJ+J0gFDS6WoKo4=
+			htxVNuEcH+ppSqXw9xeoN7fTUhc=
 			</data>
 			<key>hash2</key>
 			<data>
-			JZyZoNBu00VLjEll/qKHRWkhnMk0JlstKC8yRfMe1NU=
+			7EfAW+oGJJiJ61HW98dP14FRxvYE2gFVOP79AIEQdss=
 			</data>
 		</dict>
 		<key>Modules/BlueStackBidMachineAdapter.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			OioAa7EsunWf+/HvBa0vimgAX60=
+			T4XMtgi/Iw3qSdzrZQ5xUiK8XrY=
 			</data>
 			<key>hash2</key>
 			<data>
-			IzD56dXgy1eGjArvBrEuvxyDzfJvZvCVKrG1mORI6c8=
+			aifGBBUHBrLSMTxYzNej/dntlBaDPMnoOkc0ZFwxB6k=
 			</data>
 		</dict>
 		<key>Modules/BlueStackBidMachineAdapter.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
@@ -154,11 +154,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			Dztd5Kcba5DpwtUwU96Ecv4MesI=
+			vZIou1zRs2xjkXdWw2Fa1XweAbE=
 			</data>
 			<key>hash2</key>
 			<data>
-			5xozlssNJwjrW+t7InKB9fbOeITX6QOU251ffg7drf4=
+			KgHLCVc//TpyjPxCEd6hAkrO3umviHTxQZ6ex5Tz59M=
 			</data>
 		</dict>
 	</dict>
