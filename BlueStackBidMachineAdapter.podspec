@@ -2,10 +2,10 @@ Pod::Spec.new do |s|
 
 s.authors = 'Azerion'
 s.name = 'BlueStackBidMachineAdapter'
-s.version = '6.1.1'
+s.version = '6.1.2'
 s.static_framework = true
 s.license = 'MIT'
-s.platform = :ios, '13.0'
+s.platform = :ios, '15.0'
 s.summary = 'BlueStack BidMachine mediation adapter'
 s.homepage = "https://developers.bluestack.app/"
 s.swift_version = '5'
@@ -13,7 +13,7 @@ s.swift_version = '5'
 s.source = { :git => 'https://github.com/azerion/BlueStack-BidMachine-Adapter.git', :tag => "#{s.version}" }
 s.documentation_url = 'https://developers.bluestack.app/ios/mediation/primairy/supported-networks#bidmachine'
 s.vendored_frameworks = "BlueStackBidMachineAdapter.xcframework"
-s.ios.deployment_target = '13.0'
+s.ios.deployment_target = '15.0'
 
 s.dependency 'BlueStack-SDK', '>=6.1.0', '< 6.2.0'
 s.dependency 'BidMachine', '3.8.2'

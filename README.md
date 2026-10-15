@@ -10,8 +10,8 @@ Using BlueStackBidMachineAdapter you will be able to show BidMachine ads through
 - Rewarded
 
 ## Requirements
-- Xcode 15.1
-- iOS: 13
+- Xcode 27
+- iOS: 15.0
 
 ## Integrate BlueStackBidMachineAdapter in your application project
 
